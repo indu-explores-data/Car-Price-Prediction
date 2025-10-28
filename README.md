@@ -1,4 +1,4 @@
-# 🚗 Car Price Prediction using Ensemble Learning
+# 🚗 Car Price Prediction using Machine Learning
 
 ## 📘 Project Overview
 This project focuses on predicting car prices using ensemble machine learning models — **Random Forest** and **Gradient Boosting**.  
