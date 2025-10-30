@@ -119,7 +119,7 @@ This comparison illustrates how reducing the feature set to the **top 5 most imp
 ## ⚙️ Setup & Installation
 **1. Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/Car-Price-Prediction.git
+   git clone https://github.com/indu-explores-data/Car-Price-Prediction.git
    cd Car-Price-Prediction
    ```
 **2. Install dependencies:**
